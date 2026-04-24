@@ -1,0 +1,7 @@
+split,source,rows
+train,Bible,27986
+train,JHW,506078
+train,Combined total,534064
+test,Bible,3109
+test,JHW,3281
+test,Combined total,6390

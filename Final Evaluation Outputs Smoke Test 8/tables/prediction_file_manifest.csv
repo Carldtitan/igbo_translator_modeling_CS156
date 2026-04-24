@@ -1,0 +1,5 @@
+model_slug,model,prediction_rows,prediction_file
+rnn_lstm_scratch,RNN LSTM from scratch,8,C:\Users\Mr. Paul\Downloads\CS156 Final Assignment\Final Evaluation Outputs\predictions\rnn_lstm_scratch_predictions.csv
+transformer_scratch,Transformer from scratch,8,C:\Users\Mr. Paul\Downloads\CS156 Final Assignment\Final Evaluation Outputs\predictions\transformer_scratch_predictions.csv
+opus_mt_pretrained,OPUS-MT pretrained,8,C:\Users\Mr. Paul\Downloads\CS156 Final Assignment\Final Evaluation Outputs\predictions\opus_mt_pretrained_predictions.csv
+opus_mt_fine_tuned,OPUS-MT fine-tuned,8,C:\Users\Mr. Paul\Downloads\CS156 Final Assignment\Final Evaluation Outputs\predictions\opus_mt_fine_tuned_predictions.csv

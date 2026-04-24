@@ -1,0 +1,6 @@
+{
+  "model_label": "direct_pretrained",
+  "model_name": "Helsinki-NLP/opus-mt-en-ig",
+  "path": "c:\\Users\\Mr. Paul\\Downloads\\CS156 Final Assignment\\OPUS_MT Outputs\\1_direct_pretrained_model",
+  "description": "Original OPUS-MT model with no fine-tuning on the project dataset."
+}

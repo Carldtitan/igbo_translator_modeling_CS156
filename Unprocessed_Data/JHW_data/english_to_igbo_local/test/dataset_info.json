@@ -1,0 +1,52 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "json",
+  "dataset_size": 109273711,
+  "description": "",
+  "download_checksums": {
+    "C:/Users/Mr. Paul/Downloads/train.jsonl": {
+      "num_bytes": 137251993,
+      "checksum": null
+    },
+    "C:/Users/Mr. Paul/Downloads/test.jsonl": {
+      "num_bytes": 1137394,
+      "checksum": null
+    }
+  },
+  "download_size": 138389387,
+  "features": {
+    "English": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Igbo": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 247663098,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 108318684,
+      "num_examples": 522322,
+      "dataset_name": "json"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 955027,
+      "num_examples": 3296,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

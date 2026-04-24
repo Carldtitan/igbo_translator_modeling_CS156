@@ -1,0 +1,11 @@
+{
+  "project_dir": "C:\\Users\\Mr. Paul\\Downloads\\CS156 Final Assignment",
+  "data_dir": "C:\\Users\\Mr. Paul\\Downloads\\CS156 Final Assignment\\Cleaned Data",
+  "output_dir": "C:\\Users\\Mr. Paul\\Downloads\\CS156 Final Assignment\\Final Evaluation Outputs",
+  "evaluation_limit": null,
+  "test_rows": 6390,
+  "metric_normalization": "lowercase, normalize curly quotes, tokenize with regex \\w+|[^\\w\\s], join tokens with spaces",
+  "sacrebleu_reference_shape": "[references] for one reference stream",
+  "use_existing_opus_previews": true,
+  "opus_note": "OPUS predictions are loaded from existing full-test preview CSVs when available; if missing or FINAL_EVAL_USE_OPUS_PREVIEWS=0, the script regenerates them with num_beams=1."
+}

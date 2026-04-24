@@ -1,0 +1,4 @@
+metric,value
+Exact match,0.0074
+BLEU,39.67
+chrF,56.56
