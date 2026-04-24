@@ -1,0 +1,2 @@
+split,model_variant,rows,Exact match,BLEU,chrF
+combined_test,fine_tuned,6390,0.0074,39.67,56.56

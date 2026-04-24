@@ -1,0 +1,5 @@
+model_slug,model,split,rows,Exact match,BLEU,chrF,avg_prediction_tokens,avg_reference_tokens,avg_prediction_reference_length_ratio
+rnn_lstm_scratch,RNN LSTM from scratch,all,8,0.0,9.06,23.93,22.88,30.38,0.81
+transformer_scratch,Transformer from scratch,all,8,0.0,23.78,42.92,25.88,30.38,0.921
+opus_mt_pretrained,OPUS-MT pretrained,all,8,0.0,29.33,44.33,30.12,30.38,1.079
+opus_mt_fine_tuned,OPUS-MT fine-tuned,all,8,0.0,27.43,46.59,25.25,30.38,0.899

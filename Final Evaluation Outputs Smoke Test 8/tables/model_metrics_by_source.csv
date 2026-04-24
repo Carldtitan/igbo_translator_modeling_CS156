@@ -1,0 +1,9 @@
+model_slug,model,split,rows,Exact match,BLEU,chrF,avg_prediction_tokens,avg_reference_tokens,avg_prediction_reference_length_ratio
+rnn_lstm_scratch,RNN LSTM from scratch,Bible,5,0.0,10.4,25.0,28.4,38.4,0.788
+rnn_lstm_scratch,RNN LSTM from scratch,JHW,3,0.0,3.43,19.66,13.67,17.0,0.847
+transformer_scratch,Transformer from scratch,Bible,5,0.0,19.76,38.59,31.8,38.4,0.876
+transformer_scratch,Transformer from scratch,JHW,3,0.0,38.68,59.74,16.0,17.0,0.995
+opus_mt_pretrained,OPUS-MT pretrained,Bible,5,0.0,27.35,42.38,34.8,38.4,0.942
+opus_mt_pretrained,OPUS-MT pretrained,JHW,3,0.0,27.46,51.52,22.33,17.0,1.306
+opus_mt_fine_tuned,OPUS-MT fine-tuned,Bible,5,0.0,25.4,41.38,30.4,38.4,0.825
+opus_mt_fine_tuned,OPUS-MT fine-tuned,JHW,3,0.0,34.19,66.1,16.67,17.0,1.023
